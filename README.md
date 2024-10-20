@@ -2,7 +2,7 @@
 
 cara instal nya 
 
-buka di terminal window/termux
+buka di terminal window/termux andriod
 
 pip install requests
 
